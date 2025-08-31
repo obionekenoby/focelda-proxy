@@ -1,0 +1,11 @@
+{
+  "name": "focelda-proxy",
+  "version": "1.0.0",
+  "description": "Proxy per Focelda WebService",
+  "main": "api/focelda.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "author": "",
+  "license": "MIT"
+}
